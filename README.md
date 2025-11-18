@@ -61,3 +61,8 @@ Student
 
 -Track achievements and feedback
 
+## Example deployment
+---
+The web app is deployed below as an example
+DISCLAIMER: some features are not functioning due to removal of cloud services (high price of running the service these will work on personal set-up)
+https://webauthenticationportal-z87p.vercel.app/
